@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.button{
+  background-color: white;
+  font-size: small;
+  color: purple;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 6px;
+  padding: 8px 20px;
+}

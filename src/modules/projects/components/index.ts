@@ -1,0 +1,1 @@
+export {Project as ProjectPage} from './Project'
